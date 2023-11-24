@@ -1,2 +1,1 @@
-# Machine-Learning
-Machine Learning with Python
+# Quantitative Methods with Python
